@@ -1,4 +1,11 @@
 git init
 git remote add origin https://github.com/Santiago9111/DWM3AP-Vue.git
 git branch -M main
-git add.
+git add . 
+git commit -m "init"
+ git config --global user.email "santiago.medinar@davinci.edu.ar"
+ git config --global user.name "Santiago911"
+ git commit -m "init"
+ git push -u origin main
+
+ addqueda todo en https://github.com/Santiago9111/DWM3AP-Vue
